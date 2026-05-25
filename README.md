@@ -39,7 +39,7 @@ At present, repositories are private and used internally for R&D purposes.
 
 ### 📬 Contact
 
-📧 contact: zyphrasec@gmail.com  
+📧 contact: Reach@zyphrasec.com  
 🌍 Website: *zyphrasec.com*  
 📍 Location: Global / Research Initiative  
 
