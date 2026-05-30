@@ -1,7 +1,6 @@
-<!-- ZyphraSec GitHub Profile README -->
+# 🛡️ ZyphraSec™
 
-<h1 align="center">🛡️ ZyphraSec™</h1>
-<h3 align="center">Threat Intelligence & OSINT Platform</h3>
+### Cyber Security & Digital Risk Management
 
 <p align="center">
   <img src="Logo" alt="ZyphraSec Logo" width="120" />
@@ -9,43 +8,40 @@
 
 ---
 
-### 🌐 About
+## 🌐 About Us
 
-**ZyphraSec™** is an independent cybersecurity and threat intelligence initiative focused on  
-monitoring phishing campaigns, tracking adversary infrastructure, and generating analyst-ready intelligence.
+**ZyphraSec™** is a cybersecurity company dedicated to helping organizations strengthen their security posture through advanced cyber defense, threat monitoring, risk assessment, and security consulting services.
 
-We are currently developing a private research platform designed to help security teams  
-and analysts understand and respond to emerging cyber threats through data-driven intelligence.
+Our mission is to protect businesses, institutions, and digital assets from evolving cyber threats by delivering practical, intelligence-driven, and proactive security solutions.
 
 ---
 
-### 🔍 Focus Areas
+## 🔐 Core Services
 
-- Threat Intelligence Collection & Correlation  
-- OSINT-based Research & Infrastructure Mapping  
-- Phishing Campaign Tracking  
-- Indicator Analysis (IPs, Domains, Hashes)  
-- Intelligence Visualization & Reporting  
-
----
-
-### ⚙️ Current Status
-
-This organization represents the **early research and design phase** of the ZyphraSec™ platform.  
-Formal registration and public release are under planning.  
-At present, repositories are private and used internally for R&D purposes.
+* Cyber Security Consulting
+* Threat Intelligence & Threat Monitoring
+* Vulnerability Assessment & Security Audits
+* Digital Risk Management
+* Security Operations Support
+* Incident Response & Investigation
+* Security Awareness & Advisory Services
+* Enterprise Security Strategy
 
 ---
 
-### 📬 Contact
+## 🎯 Our Approach
 
-📧 contact: Reach@zyphrasec.com  
-🌍 Website: *zyphrasec.com*  
-📍 Location: Global / Research Initiative  
+At ZyphraSec™, we combine industry expertise, threat intelligence, and modern security practices to help organizations identify risks, improve resilience, and maintain a strong security posture in an increasingly complex digital landscape.
+
+---
+
+## 📬 Contact
+
+📧 [reach@zyphrasec.com](mailto:reach@zyphrasec.com)
+🌍 https://zyphrasec.com
 
 ---
 
 <p align="center">
-  <sub>© 2026 ZyphraSec™. All rights reserved.<br>
-  Defensive research only. No affiliation with external organizations.</sub>
+  <sub>© 2026 ZyphraSec™. All Rights Reserved.</sub>
 </p>
