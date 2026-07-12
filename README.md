@@ -3,7 +3,7 @@
 ### Cyber Security & Digital Risk Management
 
 <p align="center">
-  <img src="Logo" alt="ZyphraSec Logo" width="120" />
+  <img src="Logo.png" alt="ZyphraSec Logo" width="120" />
 </p>
 
 ---
