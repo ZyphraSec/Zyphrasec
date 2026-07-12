@@ -14,6 +14,8 @@
 
 Our mission is to protect businesses, institutions, and digital assets from evolving cyber threats by delivering practical, intelligence-driven, and proactive security solutions.
 
+Know Your Threats Before They Know You.
+
 ---
 
 ## 🔐 Core Services
